@@ -1,0 +1,11 @@
+.metadata
+
+/stm32_usb_sd/.settings
+/stm32_usb_sd/Core/Startup
+/stm32_usb_sd/Core/Src/Backup
+/stm32_usb_sd/Core/Inc/Backup
+/stm32_usb_sd/Debug
+/stm32_usb_sd/Drivers
+/stm32_usb_sd/.cproject
+/stm32_usb_sd/.mxproject
+/stm32_usb_sd/*.launch
